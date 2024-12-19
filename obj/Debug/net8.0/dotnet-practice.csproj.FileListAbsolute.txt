@@ -1,0 +1,14 @@
+D:\Arunima\dotnet-practice\bin\Debug\net8.0\dotnet-practice.exe
+D:\Arunima\dotnet-practice\bin\Debug\net8.0\dotnet-practice.deps.json
+D:\Arunima\dotnet-practice\bin\Debug\net8.0\dotnet-practice.runtimeconfig.json
+D:\Arunima\dotnet-practice\bin\Debug\net8.0\dotnet-practice.dll
+D:\Arunima\dotnet-practice\bin\Debug\net8.0\dotnet-practice.pdb
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.AssemblyInfoInputs.cache
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.AssemblyInfo.cs
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.csproj.CoreCompileInputs.cache
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.dll
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\refint\dotnet-practice.dll
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.pdb
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.genruntimeconfig.cache
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\ref\dotnet-practice.dll
