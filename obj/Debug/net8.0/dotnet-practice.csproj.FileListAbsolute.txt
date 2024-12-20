@@ -12,3 +12,4 @@ D:\Arunima\dotnet-practice\obj\Debug\net8.0\refint\dotnet-practice.dll
 D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.pdb
 D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.genruntimeconfig.cache
 D:\Arunima\dotnet-practice\obj\Debug\net8.0\ref\dotnet-practice.dll
+D:\Arunima\dotnet-practice\obj\Debug\net8.0\dotnet-practice.sourcelink.json
